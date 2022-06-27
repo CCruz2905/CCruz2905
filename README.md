@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on IoT or Web projects
-- 📫 You can found me on [Linkedin](www.linkedin.com/in/carlos-cruz-2905)
+- 📫 You can found me on [Linkedin](https://www.linkedin.com/in/carlos-cruz-2905)
 
 <!---
 CCruz2905/CCruz2905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
